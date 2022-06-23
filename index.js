@@ -11,6 +11,7 @@ let arr = word.split("")
   }
 /* 
   Add your pseudocode here
+  
 */
 
 /*
